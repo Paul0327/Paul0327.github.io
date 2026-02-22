@@ -1,3 +1,4 @@
+theme: THEME-NAME
 Headings
 
 Use # symbols to create headings. The number of # determines the heading level:
