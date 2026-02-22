@@ -1,4 +1,4 @@
-theme: THEME-NAME
+remote_theme: pages-themes/architect@v0.2.0
 Headings
 
 Use # symbols to create headings. The number of # determines the heading level:
